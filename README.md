@@ -1,4 +1,4 @@
-# music_app
+# task_3
 
 A new Flutter project.
 
